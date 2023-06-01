@@ -6,6 +6,7 @@ public class Main {
         int i = 5;
             System.out.println("i = " + i + i +1) ;
             System.out.println("gittest1");
+        System.out.println("gittest2");
 
     }
 }
